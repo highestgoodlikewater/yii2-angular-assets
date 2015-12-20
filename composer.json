@@ -19,7 +19,7 @@
 
         "bower-asset/angular" : "*",
         "bower-asset/angular-animate" : "*",
-        "bower-asset/angular-route": "*",
+        "bower-asset/angular-route": "*"
     },
     "autoload": {
         "psr-4": {
