@@ -14,6 +14,6 @@ class AngularJqAsset extends AssetBundle
         'position' => View::POS_HEAD,
     ];
     public $depends = [
-        'yii\web\JQueryAsset'
+        'yii\web\JqueryAsset'
     ];
 }
